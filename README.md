@@ -130,6 +130,29 @@ Anonymous social interaction platform focused on secure communication and modern
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
 
+
+
+# 🎧 Now Playing
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/CHSRVYT)
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# ⏳ Coding Time
+
+<!--START_SECTION:waka-->
+```txt
+TypeScript   12 hrs 32 mins  ███████████▓░░░░░░░░░░░░   46.3%
+React        8 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░   30.2%
+Python       3 hrs 01 mins   ██▓░░░░░░░░░░░░░░░░░░░░░   11.1%
+CSS          2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░   8.3%
+Other        1 hr 05 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░   4.1%
 ---
 
 # 📌 Current Focus
