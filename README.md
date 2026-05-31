@@ -12,6 +12,8 @@ _____
 
 ![](https://komarev.com/ghpvc/?username=chsrvyt\&color=blueviolet\&style=for-the-badge)
 
+_____
+
 ## CYBERSECURITY 
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge\&logo=openai)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-101010?style=for-the-badge\&logo=hackaday)
