@@ -94,16 +94,31 @@ AI-powered productivity platform focused on workflow management, premium UI/UX &
 Anonymous social interaction platform focused on secure communication and modern user engagement.
 
 ---
-
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=chsrvyt\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chsrvyt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=chsrvyt\&theme=tokyonight\&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=chsrvyt&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chsrvyt\&theme=tokyonight\&hide_border=false\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chsrvyt&layout=compact&theme=tokyonight)
 
 ---
+
+# 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=chsrvyt&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+# 📊 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chsrvyt&theme=tokyo-night)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=chsrvyt&color=blueviolet&style=for-the-badge)
 
 # 🏆 GitHub Trophies
 
