@@ -11,13 +11,16 @@
 ---
 
 # 🌐 Portfolio & Links
-
-🌍 Portfolio: https://theuntoldproject.in
-🚀 Live Projects: https://theuntoldproject.vercel.app/
-💼 LinkedIn: https://www.linkedin.com/in/sarvesh-chonde
-🧠 GitHub: https://github.com/chsrvyt
-
 ---
+🌍 Portfolio: https://theuntoldproject.in
+---
+🚀 Live Projects: https://theuntoldproject.vercel.app/
+---
+💼 LinkedIn: https://www.linkedin.com/in/sarvesh-chonde
+---
+🧠 GitHub: https://github.com/chsrvyt
+---
+
 
 # 🌐 Socials
 
@@ -138,5 +141,3 @@ Other        1 hr 05 mins    ▓░░░░░░░░░░░░░░░░
 * AI Integrations & Automation
 * Cybersecurity Fundamentals
 * Scalable Web Architectures
-
-----the-badge)
