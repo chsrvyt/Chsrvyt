@@ -8,15 +8,6 @@
 ⚡ Building modern scalable web applications & real-world AI projects
 
 ---
-
-# 💫 About Me
-
-* 🔭 Currently working on Full-Stack & SaaS-based projects
-* 🌱 Learning every day through building, debugging & experimenting
-* 🤖 Exploring AI integrations, modern web architectures & cybersecurity fundamentals
-* 🛠️ Passionate about creating practical real-world products
-* ⚡ I learn best by building and breaking things
-
 ---
 
 # 🌐 Portfolio & Links
@@ -71,15 +62,10 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 
-### 🔐 Cybersecurity & Interests
+____
+____
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-101010?style=for-the-badge\&logo=hackaday)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge\&logo=opensourceinitiative)
-
----
-
-# 🚀 Featured Projects
+# 🚀 Featured Projects HIGHLY RATED PROJECTS BUILD
 
 ## 🌾 Untitled — AI-Driven Farm-to-Market Intelligence Platform
 
@@ -104,21 +90,12 @@ Anonymous social interaction platform focused on secure communication and modern
 
 ---
 
-# 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=chsrvyt&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
 # 📊 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chsrvyt&theme=tokyo-night)
 
 ---
 
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=chsrvyt&color=blueviolet&style=for-the-badge)
 
 # 🏆 GitHub Trophies
 
@@ -126,15 +103,14 @@ Anonymous social interaction platform focused on secure communication and modern
 
 ---
 
-# ✍️ Random Dev Quote
+#  Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
 
+---
+# PROFILE VISITORS
 
-
-# 🎧 Now Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/CHSRVYT)
+![](https://komarev.com/ghpvc/?username=chsrvyt\&color=blueviolet\&style=for-the-badge)
 
 ---
 
@@ -151,7 +127,7 @@ Anonymous social interaction platform focused on secure communication and modern
 TypeScript   12 hrs 32 mins  ███████████▓░░░░░░░░░░░░   46.3%
 React        8 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░   30.2%
 Python       3 hrs 01 mins   ██▓░░░░░░░░░░░░░░░░░░░░░   11.1%
-CSS          2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░   8.3%
+C++          2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░   8.3%
 Other        1 hr 05 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░   4.1%
 ---
 
@@ -163,6 +139,4 @@ Other        1 hr 05 mins    ▓░░░░░░░░░░░░░░░░
 * Cybersecurity Fundamentals
 * Scalable Web Architectures
 
----
-
-![](https://komarev.com/ghpvc/?username=chsrvyt\&color=blueviolet\&style=for-the-badge)
+----the-badge)
