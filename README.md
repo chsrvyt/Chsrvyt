@@ -7,7 +7,7 @@
 🔐 Exploring Cybersecurity, SaaS & Intelligent Systems
 ⚡ Building modern scalable web applications & real-world AI projects
 
----
+
 ---
 
 # 🌐 Portfolio & Links
@@ -71,7 +71,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 
-____
 ____
 
 # 🚀 Featured Projects HIGHLY RATED PROJECTS BUILD
