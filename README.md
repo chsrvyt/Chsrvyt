@@ -69,15 +69,15 @@ ____
 ____
 
 # 🚀 Featured Projects HIGHLY RATED PROJECTS BUILD
-
+---
 ## 🌾 Untitled — AI-Driven Farm-to-Market Intelligence Platform
 
 AI-powered agricultural intelligence platform focused on smarter market insights, digital accessibility & intelligent analytics.
-
+---
 ## ❄️ SnowX
 
 AI-powered productivity platform focused on workflow management, premium UI/UX & scalable SaaS architecture.
-
+---
 ## 🕵️ The Untold Project
 
 Anonymous social interaction platform focused on secure communication and modern user engagement.
