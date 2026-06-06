@@ -1,148 +1,42 @@
-# Hey there 👋
+## Stack
 
-## I'm Sarvesh Chonde
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,vercel,js,bash,docker,git,linux,redis,cloudflare,github" />
+</p>
 
-🚀 First-Year CSE Student at Symbiosis Institute of Technology, Nagpur
-💻 Full-Stack Developer & AI Enthusiast
-🔐 Exploring Cybersecurity, SaaS & Intelligent Systems
-⚡ Building modern scalable web applications & real-world AI projects
-
-
----
-
-# 🌐 Portfolio & Links
----
-🌍 Portfolio: https://theuntoldproject.in
----
-🚀 Live Projects: https://theuntoldproject.vercel.app/
----
-💼 LinkedIn: https://www.linkedin.com/in/sarvesh-chonde
----
-🧠 GitHub: https://github.com/chsrvyt
----
-
-
-# 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/SARVESH_CHONDE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/SARVESH_CHONDE)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit\&logoColor=white)](https://reddit.com/user/CHSRV)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/CHSRV)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:sarveshchonde@gmail.com)
+**Security tooling:** SonarCloud · SARIF · Nettacker · Semgrep · GitHub Actions  
+**AI/ML:** sentence-transformers · ChromaDB · Gemini Flash · Claude API · RAG pipelines  
+**Infra:** Cloudflare Workers · D1 · Vercel · FastAPI · Redis
 
 ---
 
-# 💻 Tech Stack
+## Stats
 
-### 🚀 Frontend
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chsrvyt&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chsrvyt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88" />
+</p>
 
-![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=next.js)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
-
----
-
-### ⚙️ Backend & APIs
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chsrvyt&theme=react-dark&hide_border=true&color=00ff88&line=00ff88&point=ffffff" />
+</p>
 
 ---
 
-### 🤖 AI / Productivity
-
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge\&logo=openai)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge\&logo=tensorflow)
-
----
-### ☁️ Deployment & Tools
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
-
----
-### 💻 Programming Languages
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-
-____
-
-# 🚀 Featured Projects HIGHLY RATED PROJECTS BUILD
----
-## 🌾 Untitled — AI-Driven Farm-to-Market Intelligence Platform
-
-AI-powered agricultural intelligence platform focused on smarter market insights, digital accessibility & intelligent analytics.
----
-## ❄️ SnowX
-
-AI-powered productivity platform focused on workflow management, premium UI/UX & scalable SaaS architecture.
----
-## 🕵️ The Untold Project
-
-Anonymous social interaction platform focused on secure communication and modern user engagement.
-
----
-# 📈 GitHub Stats
-
-![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chsrvyt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=chsrvyt&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chsrvyt&layout=compact&theme=tokyonight)
-
----
-
-# 📊 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chsrvyt&theme=tokyo-night)
-
----
-
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=CHSRVYT\&theme=shadow_red\&no-frame=false\&no-bg=true\&margin-w=4)
-
----
-
-#  Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
-
----
 # PROFILE VISITORS
 
 ![](https://komarev.com/ghpvc/?username=chsrvyt\&color=blueviolet\&style=for-the-badge)
 
----
+
+## Connect
+<p align="left">
+  <a href="mailto:sarveshchonde@gmail.com"><img src="https://img.shields.io/badge/Email-sarveshchonde%40gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://github.com/chsrvyt"><img src="https://img.shields.io/badge/GitHub-chsrvyt-black?style=flat-square&logo=github" /></a>
+</p>
 
 # 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
----
 
-# ⏳ Coding Time
-
-<!--START_SECTION:waka-->
-```txt
-TypeScript   12 hrs 32 mins  ███████████▓░░░░░░░░░░░░   46.3%
-React        8 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░   30.2%
-Python       3 hrs 01 mins   ██▓░░░░░░░░░░░░░░░░░░░░░   11.1%
-C++          2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░   8.3%
-Other        1 hr 05 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░   4.1%
----
-
-# 📌 Current Focus
-
-* Open Source Contributions
-* Full-Stack SaaS Development
-* AI Integrations & Automation
-* Cybersecurity Fundamentals
-* Scalable Web Architectures
+> *" FAR BEYOND YOUR CAPABILITIES TO UNDERSTAND."*
