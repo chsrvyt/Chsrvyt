@@ -26,16 +26,6 @@ AN PLATFORM FOR SHARING AND DISCOVERING UNTOLD STORIES FROM AROUND THE WORLD, FO
 
 ---
 
-## 🔐 Security Automation Suite
-
-Collection of cybersecurity tools focused on automated security assessments and DevSecOps workflows.
-
-## 🤖 AI & RAG Systems
-
-Experiments and production systems utilizing Retrieval-Augmented Generation, Vector Databases, and LLM-powered applications.
-
----
-
 # 💻 Tech Stack
 
 <p align="left">
