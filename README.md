@@ -35,21 +35,9 @@ AN PLATFORM FOR SHARING AND DISCOVERING UNTOLD STORIES FROM AROUND THE WORLD, FO
 
 ---
 
-#  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chsrvyt&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chsrvyt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88" />
-</p>
-
----
-
 #  Profile Visitors
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=chsrvyt&color=blueviolet&style=for-the-badge" />
 </p>
 
