@@ -16,7 +16,7 @@ Building AI-powered SaaS products, cybersecurity automation tools, and modern we
 
 #  Featured Projects
 
-## ❄️ SnowX
+## ❄️ SNOWX
 
 AI- POWERED SNOWBOARDING COMPANION FOR WEATHER FORECASTS, ROUTE PLANNING, AND REAL-TIME ASSISTANCE.
 
@@ -35,7 +35,7 @@ AN PLATFORM FOR SHARING AND DISCOVERING UNTOLD STORIES FROM AROUND THE WORLD, FO
 # 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,bash,docker,git,linux,redis,cloudflare,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,docker,git,linux,supabase,cloudflare,github,vercel" />
 </p>
 
 
@@ -63,20 +63,10 @@ AN PLATFORM FOR SHARING AND DISCOVERING UNTOLD STORIES FROM AROUND THE WORLD, FO
     <img src="https://img.shields.io/badge/GitHub-chsrvyt-black?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/sarvesh-chonde">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
-## Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,vercel,js,bash,docker,git,linux,redis,cloudflare,github" />
-</p>
-
-**Security tooling:** SonarCloud · SARIF · Nettacker · Semgrep · GitHub Actions  
-**AI/ML:** sentence-transformers · ChromaDB · Gemini Flash · Claude API · RAG pipelines  
-**Infra:** Cloudflare Workers · D1 · Vercel · FastAPI · Redis
 
 ---
 
