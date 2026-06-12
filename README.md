@@ -1,4 +1,10 @@
-# 👋 Hey, I'm Sarvesh
+<!--
+ HEY ITS SRV IF YOU CAN SEE THIS IT MEANS UR STEALING MY REPO 
+ CANT TOU FIND YOUR OWN UNIQUE REPO BIT*H
+-->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=josefinsans&weight=500&size=25&duration=4500&pause=500&color=33FF33&width=435&lines=Hello%2C+it's+SARVESH+CHONDE;CYBER+SECURITY+STUDENT" alt="CYBER SECURITY STUDENT"/>
+</a>
 
 ### Cybersecurity • Full Stack Development • AI Engineering  • WEBDEV  • AI-AUTOMATION  
 
@@ -42,7 +48,10 @@ AN PLATFORM FOR SHARING AND DISCOVERING UNTOLD STORIES FROM AROUND THE WORLD, FO
 </p>
 
 ---
-
+<!--
+ HEY ITS SRV IF YOU CAN SEE THIS IT MEANS UR STEALING MY REPO 
+ CANT TOU FIND YOUR OWN UNIQUE REPO BIT*H
+-->
 #  Connect With Me
 
 <p align="left">
