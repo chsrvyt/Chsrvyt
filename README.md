@@ -1,6 +1,6 @@
 <!--
  HEY ITS SRV IF YOU CAN SEE THIS IT MEANS UR STEALING MY REPO 
- CANT TOU FIND YOUR OWN UNIQUE REPO BIT*H
+ CANT YOU FIND YOUR OWN UNIQUE REPO BIT*H
 -->
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=josefinsans&weight=500&size=25&duration=4500&pause=500&color=33FF33&width=435&lines=Hello%2C+it's+SARVESH+CHONDE;CYBER+SECURITY+STUDENT" alt="CYBER SECURITY STUDENT"/>
