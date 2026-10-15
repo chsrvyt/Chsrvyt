@@ -3,9 +3,10 @@
  CANT YOU FIND YOUR OWN UNIQUE REPO BIT*H
 -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=josefinsans&weight=500&size=25&duration=4500&pause=500&color=33FF33&width=435&lines=Hello%2C+it's+SARVESH+CHONDE;CYBER+SECURITY+STUDENT" alt="CYBER SECURITY STUDENT"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=josefinsans&weight=500&size=25&duration=4500&pause=500&color=33FF33&width=435&lines=Hello%2C+it's+SARVESH+CHONDE;CYBER+SECURITY+STUDENT" alt="Hello, it's Sarvesh Chonde — Cyber Security Student"/>
 </a>
 
+**Sarvesh Chonde** · Portfolio: [chsrvyt.github.io](https://chsrvyt.github.io/)
 
 <div>
     <img src="./assets/SRV.gif" alt="About Me Terminal GIF"/>
@@ -62,6 +63,10 @@ AN PLATFORM FOR SHARING AND DISCOVERING UNTOLD STORIES FROM AROUND THE WORLD, FO
 #  Connect With Me
 
 <p align="left">
+  <a href="https://chsrvyt.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-chsrvyt.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sarvesh Chonde — portfolio" />
+  </a>
+
   <a href="mailto:sarveshchonde@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
